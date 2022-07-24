@@ -1,3 +1,3 @@
 # ani-find
 
-Ani-find is a small program i made to help keep track of which show i watched
+Ani-find is a small program im working on to help keep track of which show i watched
